@@ -1,4 +1,4 @@
-
+// arab to braille converter Indonesia
 
 let arab;
 let temp = new Set()	// menyimpan karakter-karakter yang belum terproses.
